@@ -1,14 +1,12 @@
 # Hello, I'm Eniola Giwa 
 <a href="https://www.linkedin.com/in/eniola-giwa24/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Greetings, Cyber Defenders! I’m a driven cybersecurity specialist and a relentless continuous learner with a BSc in Computer Science. With a couple of years of solid network security experience and a broader IT background, I’m all about growth—constantly adapting and developing new ways to hunt and mitigate threats. Eager for growth and always on the lookout for the next big thing, I’m excited to bring my skills and energy to the ever-evolving world of cybersecurity!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+My journey in computer science has ignited a deep passion for cybersecurity, driving me to transition into this field with a focus on becoming a Tier 1 Analyst in a Security Operations Center (SOC). I aim to leverage my solid experience in network security and ongoing cybersecurity education to excel in threat detection, response, and analysis. Eager to contribute to a proactive security team, I’m committed to growing my skills and enhancing my expertise in a dynamic SOC environment.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
