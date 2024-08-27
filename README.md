@@ -46,12 +46,24 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/-CCNA-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2%20CC-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20IT%20Support-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+        <img src="https://img.shields.io/badge/-CCNA-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://www.comptia.org/certifications/security" target="_blank">
+        <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <a href="https://www.comptia.org/certifications/network" target="_blank">
+        <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <a href="https://www.comptia.org/certifications/a" target="_blank">
+        <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <a href="https://www.isc2.org/Certifications/CC" target="_blank">
+        <img src="https://img.shields.io/badge/-ISC2%20CC-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    </a>
+    <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
+        <img src="https://img.shields.io/badge/-Google%20IT%20Support-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    </a>
 </div>
 
 
