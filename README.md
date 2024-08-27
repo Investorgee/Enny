@@ -46,7 +46,7 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ## Certifications
 
 <div>
-    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+    <a href="https://www.credly.com/badges/bf38a4ff-3f9b-4a2f-8044-dcc57fef3c9e" target="_blank">
         <img src="https://img.shields.io/badge/-CCNA-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
     <a href="https://www.comptia.org/certifications/security" target="_blank">
