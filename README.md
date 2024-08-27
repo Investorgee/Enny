@@ -49,19 +49,19 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
     <a href="https://www.credly.com/badges/bf38a4ff-3f9b-4a2f-8044-dcc57fef3c9e" target="_blank">
         <img src="https://img.shields.io/badge/-CCNA-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
-    <a href="https://www.comptia.org/certifications/security" target="_blank">
+    <a href="https://www.credly.com/badges/a7197eb8-dbe8-4e6f-85bb-44db5bc26649" target="_blank">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
-    <a href="https://www.comptia.org/certifications/network" target="_blank">
+    <a href="https://www.credly.com/badges/580df600-2127-4641-8cec-6d5da50e8756" target="_blank">
         <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
-    <a href="https://www.comptia.org/certifications/a" target="_blank">
+    <a href="https://www.credly.com/badges/db8ea891-a7da-4228-bd55-de70f5fe8d0b" target="_blank">
         <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.isc2.org/Certifications/CC" target="_blank">
         <img src="https://img.shields.io/badge/-ISC2%20CC-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
     </a>
-    <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
+    <a href="https://www.credly.com/badges/c31d3b31-9372-4823-9dd0-36082a8861a9" target="_blank">
         <img src="https://img.shields.io/badge/-Google%20IT%20Support-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
     </a>
 </div>
