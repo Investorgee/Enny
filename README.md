@@ -54,7 +54,7 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
         <img src="https://www.dallascollege.edu/_layouts/DC.InternetBranding/2.4/images/dallas-college-logo.svg" alt="Dallas College Logo" width="50" height="50" />
         <strong>Associate of Applied Science in Cybersecurity</strong><br/>
         Dallas College, Texas, USA<br/>
-        Expected Graduation:December 2025
+        Expected Graduation: December 2025
     </p>
 </div>
 
